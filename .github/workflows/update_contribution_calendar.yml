@@ -23,7 +23,7 @@ jobs:
       - name: Generate svg contribution calendar
         env:
           CONTRIB_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
-        run: python scripts/generate_svg.py
+        run: python update.py
 
       - name: Save to repository if changed
         run: |
