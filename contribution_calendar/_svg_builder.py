@@ -63,11 +63,11 @@ def build_svg(days: List[Day], total: int, pathfinder: Pathfinder) -> str:
 
     for column, name in month_labels(days):
         x: float = ORIGIN_X + column * STEP_SIZE - 4
-        parts.append(f'<text x="{x:.1f}" y="74" font-family="{FONT_FAMILY}" font-size="11" fill="{COLOR_LABEL}">{name}</text>')
+        parts.append(f'<text x="{x:.1f}" y="74" font-family="{FONT_FAMILY}" font-size="15" fill="{COLOR_LABEL}">{name}</text>')
         
     for row, w_name in WEEKDAY_LABELS.items():
         y: float = ORIGIN_Y + row * STEP_SIZE + 4
-        parts.append(f'<text x="42" y="{y:.1f}" text-anchor="end" font-family="{FONT_FAMILY}" font-size="11" fill="{COLOR_LABEL}">{w_name}</text>')
+        parts.append(f'<text x="42" y="{y:.1f}" text-anchor="end" font-family="{FONT_FAMILY}" font-size="15" fill="{COLOR_LABEL}">{w_name}</text>')
 
     parts.append(f'<g fill="{COLOR_EMPTY_NODE}">')
     for day in days:
