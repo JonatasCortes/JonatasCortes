@@ -90,7 +90,7 @@ def build_svg(days: List[Day], total: int, pathfinder: Pathfinder) -> str:
 
     legend_y: float = 216.0
     middle_count: int = round((1 + max_count) / 2)
-    parts.append(f'<g font-family="{FONT_FAMILY}" font-size="12" fill="{COLOR_LEGEND}">')
+    parts.append(f'<g font-family="{FONT_FAMILY}" font-size="15" fill="{COLOR_LEGEND}">')
     parts.append(f'<text x="778" y="{legend_y + 4}" text-anchor="end">Less</text>')
     
     for center_x, count in ((794, 1), (814, middle_count), (834, max_count)):
