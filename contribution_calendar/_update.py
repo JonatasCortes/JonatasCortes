@@ -29,8 +29,8 @@ def create_graph(login: str, token: str, output_path: str) -> None:
 
 
 def update_contribution_calendar(github_login: str) -> None:
-    token: Optional[str] = os.environ.get("GITHUB_TOKEN")
+    token: Optional[str] = os.environ.get("CONTRIB_TOKEN")
     if not token:
-        raise ValueError("Missing GITHUB_TOKEN environment variable.")
+        raise ValueError("Missing CONTRIB_TOKEN environment variable.")
     output_path: str = "assets/contrib.svg"
     create_graph(github_login, token, output_path)
