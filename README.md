@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="files/title.svg"
+    src="assets/title.svg"
     alt="JonatasCortes"
     width="700"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="files/about.svg"
+    src="assets/about.svg"
     alt="About me"
     width="700"
   />
@@ -20,6 +20,10 @@
 </div>
 
 <br>
+
+<p align="center">
+  <img src="assets/contrib.svg" alt="Contribution graph" width="700">
+</p>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/EF4444" width="48" alt="Python" />
@@ -39,7 +43,7 @@
 
 <p align="center">
   <img
-    src="files/projects_title.svg"
+    src="assets/projects_title.svg"
     alt="Projects and Contributions"
     width="700"
   />
@@ -47,13 +51,13 @@
 
 <p align="center">
   <a href="https://github.com/ThePyManiacs/DeskLab">
-    <img src="files/desklab.svg" alt="DeskLab: open-source GUI library for Python with direct control over the event loop" width="700" />
+    <img src="assets/desklab.svg" alt="DeskLab: open-source GUI library for Python with direct control over the event loop" width="700" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JonatasCortes/hnsw-character-recognition">
-    <img src="files/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" width="700" />
+    <img src="assets/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" width="700" />
   </a>
 </p>
 
