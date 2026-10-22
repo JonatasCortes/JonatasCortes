@@ -1,4 +1,4 @@
-from contribution_calendar import update_contribution_calendar
+from graphpath import update_contribution_calendar
 
 if __name__ == "__main__":
-    update_contribution_calendar("JonatasCortes")
+    update_contribution_calendar("JonatasCortes", "red")
