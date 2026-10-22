@@ -59,7 +59,8 @@
 
 <p align="center">
   <a href="https://github.com/JonatasCortes/hnsw-character-recognition">
-    <img src="assets/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" width="700" />
+    <img src="assets/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" height="260" />
+    <img src="assets/hnsw.gif" alt="Demo of the HNSW Character Recognition app: drawing a character, classifying it and viewing the results" height="260" />
   </a>
 </p>
 
