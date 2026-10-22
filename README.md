@@ -22,7 +22,9 @@
 <br>
 
 <p align="center">
-  <img src="assets/contrib.svg" alt="Contribution graph" width="700">
+  <a href="https://github.com/JonatasCortes/graphpath">
+    <img src="assets/contrib.svg" alt="Contribution Calendar" width="700">
+  </a>
 </p>
 
 <div align="center">
