@@ -57,22 +57,15 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/JonatasCortes/hnsw-character-recognition">
-    <img src="assets/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" height="260" />
-    <img src="assets/hnsw.gif" alt="Demo of the HNSW Character Recognition app: drawing a character, classifying it and viewing the results" height="260" />
-  </a>
+  <a href="https://github.com/JonatasCortes/hnsw-character-recognition"><img src="assets/hnsw.svg" alt="HNSW Character Recognition: train and test an HNSW model in pure Python" height="260" /></a>
+  <img src="assets/hnsw.gif" alt="Demo of the HNSW Character Recognition app: drawing a character, classifying it and viewing the results" height="260" />
 </p>
 
 
-
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/jônatas-gonçalves-pereira-ramos-côrtes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  </a>
-  <a href="mailto:joncortes.on@gmail.com@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/jônatas-gonçalves-pereira-ramos-côrtes" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="mailto:joncortes.on@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
+
