@@ -2,7 +2,7 @@
   <img
     src="assets/title.svg"
     alt="JonatasCortes"
-    width="700"
+    width="800"
   />
 </p>
 
@@ -10,20 +10,20 @@
   <img
     src="assets/about.svg"
     alt="About me"
-    width="700"
+    width="800"
   />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonatasCortes&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=EF4444&text_color=e2e8f0&icon_color=DC2626&border_color=DC2626" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasCortes&layout=compact&langs_count=5&bg_color=0d1117&title_color=EF4444&text_color=e2e8f0&icon_color=DC2626&border_color=DC2626" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/JonatasCortes/voronoi-stats">
+    <img src="assets/stats.svg" alt="Code Territory" width="800">
+  </a>
+</p>
 
-<br>
 
 <p align="center">
   <a href="https://github.com/JonatasCortes/graphpath">
-    <img src="assets/contrib.svg" alt="Contribution Calendar" width="700">
+    <img src="assets/contrib.svg" alt="Contribution Calendar" width="800">
   </a>
 </p>
 
@@ -47,13 +47,13 @@
   <img
     src="assets/projects_title.svg"
     alt="Projects and Contributions"
-    width="700"
+    width="800"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/ThePyManiacs/DeskLab">
-    <img src="assets/desklab.svg" alt="DeskLab: open-source GUI library for Python with direct control over the event loop" width="700" />
+    <img src="assets/desklab.svg" alt="DeskLab: open-source GUI library for Python with direct control over the event loop" width="800" />
   </a>
 </p>
 
