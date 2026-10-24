@@ -1,0 +1,46 @@
+name: voronoi-stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voronoi-stats
+  cancel-in-progress: false
+
+env:
+  USERNAME: ${{ github.repository_owner }}
+  THEME: neon
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v7
+
+      - name: Install python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Generate svg card
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python -m voronoi_stats "$USERNAME" --theme "$THEME"
+
+      - name: Save to repository if changed
+        run: |
+          if [ -z "$(git status --porcelain assets/stats.svg)" ]; then
+            echo "No updates were found."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/stats.svg
+            git commit -m "auto: update voronoi stats"
+            git push
+          fi
