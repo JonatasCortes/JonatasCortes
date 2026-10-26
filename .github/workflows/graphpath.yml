@@ -8,6 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: graphpath
+  cancel-in-progress: false
+
+env:
+  USERNAME: ${{ github.repository_owner }}
+  THEME: neon
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,19 +23,19 @@ jobs:
       - name: Download repository
         uses: actions/checkout@v4
 
-      - name: Install python
+      - name: Install Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate svg contribution calendar
+      - name: Generate SVG contribution calendar
         env:
-          CONTRIB_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
-        run: python update.py
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python -m graphpath "$USERNAME" --theme "$THEME"
 
       - name: Save to repository if changed
         run: |
-          if [ -z "$(git status --porcelain assets/contrib.svg)" ]; then
+          if [ -z "$(git status --porcelain -- assets/contrib.svg)" ]; then
             echo "No updates were found."
           else
             git config user.name "github-actions[bot]"
