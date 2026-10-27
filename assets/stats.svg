@@ -35,19 +35,19 @@
 </g>
 <rect x="22" y="54" width="550" height="300" rx="10" fill="none" stroke="#FF0055" stroke-opacity="0.28"/>
 <text x="598" y="69" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">COMMITS</text>
-<text class="num" x="598" y="101.5" font-size="28" font-weight="700" fill="#FFFFFF">686</text>
-<path class="spark" d="M724 98.1 L726.6 99 L729.3 100.7 L731.9 95.6 L734.5 82.5 L737.1 100.2 L739.8 101.5 L742.4 101.5 L745 101.5 L747.6 101.5 L750.3 101.5 L752.9 101.5 L755.5 101.5 L758.2 101.1 L760.8 99 L763.4 99.8 L766 101.5 L768.7 101.5 L771.3 101.5 L773.9 101.5 L776.5 101.5 L779.2 101.5 L781.8 98.1 L784.4 96.9 L787.1 98.5 L789.7 98.5 L792.3 85 L794.9 82.9 L797.6 76.1 L800.2 89.2 L802.8 94.3 L805.5 85.4 L808.1 90.5 L810.7 88.8 L813.3 66 L816 88.4 L818.6 100.2 L821.2 99.4 L823.8 101.5 L826.5 97.7 L829.1 100.2 L831.7 100.7 L834.4 100.2 L837 99.8 L839.6 101.5 L842.2 98.1 L844.9 101.1 L847.5 88 L850.1 98.1 L852.7 99.4 L855.4 85.4 L858 82.5" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="endpt"><circle class="pulse" cx="858" cy="82.5" r="2.6" fill="#00F0FF"/></g>
+<text class="num" x="598" y="101.5" font-size="28" font-weight="700" fill="#FFFFFF">642</text>
+<path class="spark" d="M724 98.7 L726.6 97.7 L729.3 99.1 L731.9 93.5 L734.5 82.1 L737.1 101.5 L739.8 101.5 L742.4 101.5 L745 101.5 L747.6 101.5 L750.3 101.5 L752.9 101.5 L755.5 101.5 L758.2 101 L760.8 96.8 L763.4 99.6 L766 101.5 L768.7 101.5 L771.3 101.5 L773.9 101.5 L776.5 101.5 L779.2 98.2 L781.8 97.7 L784.4 96.3 L787.1 98.2 L789.7 97.2 L792.3 80.2 L794.9 88.2 L797.6 74.5 L800.2 95.3 L802.8 93.5 L805.5 83 L808.1 89.2 L810.7 92.5 L813.3 66 L816 93.9 L818.6 99.6 L821.2 100.6 L823.8 101.5 L826.5 97.2 L829.1 101.5 L831.7 100.6 L834.4 99.6 L837 99.6 L839.6 101.5 L842.2 97.7 L844.9 98.2 L847.5 86.8 L850.1 97.7 L852.7 100.6 L855.4 78.3 L858 81.1" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="endpt"><circle class="pulse" cx="858" cy="81.1" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="113.5" x2="858" y2="113.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="128.5" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">PULL REQUESTS</text>
-<text class="num" x="598" y="161" font-size="28" font-weight="700" fill="#FFFFFF">102</text>
-<path class="spark" d="M724 161 L726.6 161 L729.3 158.5 L731.9 150.9 L734.5 138.2 L737.1 153.4 L739.8 148.3 L742.4 161 L745 161 L747.6 161 L750.3 161 L752.9 161 L755.5 161 L758.2 161 L760.8 161 L763.4 161 L766 161 L768.7 161 L771.3 161 L773.9 161 L776.5 161 L779.2 161 L781.8 161 L784.4 158.5 L787.1 150.9 L789.7 150.9 L792.3 143.2 L794.9 153.4 L797.6 145.8 L800.2 148.3 L802.8 155.9 L805.5 155.9 L808.1 153.4 L810.7 145.8 L813.3 125.5 L816 130.6 L818.6 161 L821.2 158.5 L823.8 161 L826.5 161 L829.1 161 L831.7 161 L834.4 161 L837 158.5 L839.6 161 L842.2 161 L844.9 161 L847.5 148.3 L850.1 158.5 L852.7 158.5 L855.4 161 L858 155.9" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="endpt"><circle class="pulse" cx="858" cy="155.9" r="2.6" fill="#00F0FF"/></g>
+<text class="num" x="598" y="161" font-size="28" font-weight="700" fill="#FFFFFF">94</text>
+<path class="spark" d="M724 161 L726.6 161 L729.3 155.1 L731.9 143.2 L734.5 134.4 L737.1 146.2 L739.8 146.2 L742.4 161 L745 161 L747.6 161 L750.3 161 L752.9 161 L755.5 161 L758.2 161 L760.8 161 L763.4 161 L766 161 L768.7 161 L771.3 161 L773.9 161 L776.5 161 L779.2 161 L781.8 161 L784.4 155.1 L787.1 152.1 L789.7 146.2 L792.3 143.2 L794.9 158 L797.6 140.3 L800.2 152.1 L802.8 155.1 L805.5 155.1 L808.1 149.2 L810.7 152.1 L813.3 125.5 L816 143.2 L818.6 161 L821.2 158 L823.8 161 L826.5 161 L829.1 161 L831.7 161 L834.4 161 L837 158 L839.6 161 L842.2 161 L844.9 158 L847.5 146.2 L850.1 158 L852.7 161 L855.4 161 L858 155.1" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="endpt"><circle class="pulse" cx="858" cy="155.1" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="173" x2="858" y2="173" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="188" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">ISSUES</text>
-<text class="num" x="598" y="220.5" font-size="28" font-weight="700" fill="#FFFFFF">68</text>
-<path class="spark" d="M724 220.5 L726.6 220.5 L729.3 220.5 L731.9 220.5 L734.5 220.5 L737.1 220.5 L739.8 220.5 L742.4 220.5 L745 220.5 L747.6 220.5 L750.3 220.5 L752.9 220.5 L755.5 220.5 L758.2 220.5 L760.8 220.5 L763.4 220.5 L766 220.5 L768.7 220.5 L771.3 220.5 L773.9 220.5 L776.5 220.5 L779.2 220.5 L781.8 219 L784.4 216.1 L787.1 220.5 L789.7 219 L792.3 216.1 L794.9 220.5 L797.6 219 L800.2 220.5 L802.8 219 L805.5 213.1 L808.1 217.5 L810.7 214.6 L813.3 217.5 L816 220.5 L818.6 220.5 L821.2 220.5 L823.8 220.5 L826.5 220.5 L829.1 220.5 L831.7 220.5 L834.4 220.5 L837 220.5 L839.6 220.5 L842.2 220.5 L844.9 213.1 L847.5 210.1 L850.1 220.5 L852.7 220.5 L855.4 185 L858 207.2" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="endpt"><circle class="pulse" cx="858" cy="207.2" r="2.6" fill="#00F0FF"/></g>
+<text class="num" x="598" y="220.5" font-size="28" font-weight="700" fill="#FFFFFF">55</text>
+<path class="spark" d="M724 220.5 L726.6 220.5 L729.3 220.5 L731.9 220.5 L734.5 220.5 L737.1 220.5 L739.8 220.5 L742.4 220.5 L745 220.5 L747.6 220.5 L750.3 220.5 L752.9 220.5 L755.5 220.5 L758.2 220.5 L760.8 220.5 L763.4 220.5 L766 220.5 L768.7 220.5 L771.3 220.5 L773.9 220.5 L776.5 220.5 L779.2 220.5 L781.8 219 L784.4 217.5 L787.1 220.5 L789.7 219 L792.3 216.1 L794.9 220.5 L797.6 219 L800.2 220.5 L802.8 214.6 L805.5 214.6 L808.1 216.1 L810.7 217.5 L813.3 219 L816 220.5 L818.6 220.5 L821.2 220.5 L823.8 220.5 L826.5 220.5 L829.1 220.5 L831.7 220.5 L834.4 220.5 L837 220.5 L839.6 220.5 L842.2 220.5 L844.9 210.1 L847.5 217.5 L850.1 220.5 L852.7 220.5 L855.4 185 L858 220.5" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="endpt"><circle class="pulse" cx="858" cy="220.5" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="232.5" x2="858" y2="232.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="247.5" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">REVIEWS</text>
 <text class="num" x="598" y="280" font-size="28" font-weight="700" fill="#FFFFFF">0</text>
@@ -55,7 +55,7 @@
 <g class="endpt"><circle class="pulse" cx="858" cy="280" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="292" x2="858" y2="292" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="314" font-size="10" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">REPOS</text>
-<text class="num" x="598" y="338" font-size="20" font-weight="700" fill="#FF0055">14</text>
+<text class="num" x="598" y="338" font-size="20" font-weight="700" fill="#FF0055">15</text>
 <text x="684.7" y="314" font-size="10" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">STARS</text>
 <text class="num" x="684.7" y="338" font-size="20" font-weight="700" fill="#FF0055">0</text>
 <text x="771.3" y="314" font-size="10" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">FORKS</text>
