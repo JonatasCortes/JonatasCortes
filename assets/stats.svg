@@ -10,47 +10,52 @@
 <text x="598" y="39" font-size="12" letter-spacing="1" fill="#00F0FF">ACTIVITY · 12 MONTHS</text>
 <rect x="22" y="54" width="550" height="300" rx="10" fill="#121324"/>
 <g clip-path="url(#plot-clip)">
-<polygon class="cell" points="22,228.3 107.1,188.9 268.5,273.7 263.9,354 22,354" fill="#ff0055" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:134.7px 286.4px;animation-delay:0.15s"/>
-<polygon class="cell" points="236.5,78 285,123.1 310,234.7 268.5,273.7 107.1,188.9 132.9,98.6" fill="#ff0055" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:214.7px 170px;animation-delay:0.19s"/>
-<polygon class="cell" points="373.8,271.3 341,237.9 422.7,105.6 498.4,119 527.3,220.3 521.1,251.8" fill="#ff0055" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:441.5px 196.5px;animation-delay:0.23s"/>
-<polygon class="cell" points="409.9,78.9 422.7,105.6 341,237.9 310,234.7 285,123.1 354.5,54 379.8,54" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:349px 138.7px;animation-delay:0.27s"/>
-<polygon class="cell" points="132.9,98.6 107.1,188.9 22,228.3 22,54 110.3,54" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:69.2px 129.3px;animation-delay:0.31s"/>
-<polygon class="cell" points="373.8,271.3 521.1,251.8 513,292.4 484.9,354 373.5,354" fill="#ff0055" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:442.4px 305.5px;animation-delay:0.35s"/>
-<polygon class="cell" points="268.5,273.7 310,234.7 341,237.9 373.8,271.3 373.5,354 263.9,354" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:320.6px 301.2px;animation-delay:0.39s"/>
-<polygon class="cell" points="285,123.1 236.5,78 238.7,54 354.5,54" fill="#ff0055" fill-opacity="0.15" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:287.4px 78.1px;animation-delay:0.43s"/>
-<polygon class="cell" points="422.7,105.6 409.9,78.9 420.8,54 479.8,54 498.4,119" fill="#ff0055" fill-opacity="0.36" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:453.9px 83.9px;animation-delay:0.47s"/>
-<polygon class="cell" points="236.5,78 132.9,98.6 110.3,54 238.7,54" fill="#ff0055" fill-opacity="0.5" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:173.2px 71.2px;animation-delay:0.51s"/>
-<polygon class="cell" points="409.9,78.9 379.8,54 420.8,54" fill="#ff0055" fill-opacity="0.39" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:403.5px 62.3px;animation-delay:0.55s"/>
-<polygon class="cell" points="527.3,220.3 495.1,107.7 523.5,93.3 572,96.6 572,216.9" fill="#e300ff" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:540.5px 152.2px;animation-delay:0.59s"/>
-<polygon class="cell" points="523.5,93.3 519.3,54 572,54 572,96.6" fill="#e300ff" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:547px 74.2px;animation-delay:0.63s"/>
-<polygon class="cell" points="523.5,93.3 495.1,107.7 479.8,54 519.3,54" fill="#e300ff" fill-opacity="0.5" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:503.3px 76.6px;animation-delay:0.67s"/>
-<polygon class="cell" points="513,292.4 527.3,220.3 572,216.9 572,303.8" fill="#1c00ff" fill-opacity="0.31" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:546.6px 260.4px;animation-delay:0.71s"/>
-<polygon class="cell" points="513,292.4 572,303.8 572,354 484.9,354" fill="#00aaff" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:533.6px 327.5px;animation-delay:0.75s"/>
+<polygon class="cell" points="39.2,228.9 101.5,192.1 264.9,243.5 266.6,354 51.2,354" fill="#ff0055" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:150.5px 283.6px;animation-delay:0.15s"/>
+<polygon class="cell" points="250.1,77.9 291.3,128.7 303.3,208.4 264.9,243.5 101.5,192.1 122.9,86.6" fill="#ff0055" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:206.3px 156px;animation-delay:0.19s"/>
+<polygon class="cell" points="342,218.8 389.3,198.4 508.2,252.3 495.6,298 468.6,354 348.7,354" fill="#ff0055" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:415.4px 282.7px;animation-delay:0.23s"/>
+<polygon class="cell" points="398.5,75.5 421.7,116.8 389.3,198.4 342,218.8 303.3,208.4 291.3,128.7 356.3,54 363.3,54" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:354.6px 139.8px;animation-delay:0.27s"/>
+<polygon class="cell" points="122.9,86.6 101.5,192.1 39.2,228.9 22,225.8 22,54 106.8,54" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:65.4px 131.6px;animation-delay:0.31s"/>
+<polygon class="cell" points="389.3,198.4 421.7,116.8 484.1,104.5 512,187.6 509.1,249.1 508.2,252.3" fill="#ff0055" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:458.5px 175.7px;animation-delay:0.35s"/>
+<polygon class="cell" points="264.9,243.5 303.3,208.4 342,218.8 348.7,354 266.6,354" fill="#ff0055" fill-opacity="0.54" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:306.6px 287.2px;animation-delay:0.39s"/>
+<polygon class="cell" points="291.3,128.7 250.1,77.9 253.2,54 356.3,54" fill="#ff0055" fill-opacity="0.15" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:295.7px 79.9px;animation-delay:0.43s"/>
+<polygon class="cell" points="421.7,116.8 398.5,75.5 408.8,54 467.1,54 484.1,104.5" fill="#ff0055" fill-opacity="0.36" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:440.5px 82.9px;animation-delay:0.47s"/>
+<polygon class="cell" points="250.1,77.9 122.9,86.6 106.8,54 253.2,54" fill="#ff0055" fill-opacity="0.49" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:179.4px 68px;animation-delay:0.51s"/>
+<polygon class="cell" points="22,225.8 39.2,228.9 51.2,354 22,354" fill="#ff0055" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:33.8px 296.2px;animation-delay:0.55s"/>
+<polygon class="cell" points="398.5,75.5 363.3,54 408.8,54" fill="#ff0055" fill-opacity="0.39" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:390.2px 61.2px;animation-delay:0.59s"/>
+<polygon class="cell" points="512,187.6 484.2,104.8 513.7,83.3 572,90.5 572,180.3" fill="#ff00ea" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:533.6px 133.5px;animation-delay:0.63s"/>
+<polygon class="cell" points="513.7,83.3 510.8,54 572,54 572,90.5" fill="#ff00ea" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:543.2px 70.4px;animation-delay:0.67s"/>
+<polygon class="cell" points="513.7,83.3 484.2,104.8 467.1,54 510.8,54" fill="#ff00ea" fill-opacity="0.5" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:491.9px 73.8px;animation-delay:0.71s"/>
+<polygon class="cell" points="509.1,249.1 512,187.6 553.3,182.5 572,196.6 572,253" fill="#7f00ff" fill-opacity="0.31" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:541.2px 219px;animation-delay:0.75s"/>
+<polygon class="cell" points="553.3,182.5 572,180.3 572,196.6" fill="#7f00ff" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:565.8px 186.5px;animation-delay:0.79s"/>
+<polygon class="cell" points="495.6,298 509.1,249.1 572,253 572,320.8" fill="#0015ff" fill-opacity="0.52" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:538.6px 281.6px;animation-delay:0.83s"/>
+<polygon class="cell" points="495.6,298 572,320.8 572,354 468.6,354" fill="#00aaff" fill-opacity="0.55" stroke="#080811" stroke-width="1.4" stroke-linejoin="round" style="transform-origin:522.6px 331.9px;animation-delay:0.87s"/>
 <g class="terr">
-<polygon points="22,54 479.8,54 527.3,220.3 513,292.4 484.9,354 22,354" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
-<polygon points="22,54 479.8,54 527.3,220.3 513,292.4 484.9,354 22,354" fill="none" stroke="#ff0055" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
-<polygon points="527.3,220.3 479.8,54 572,54 572,216.9" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
-<polygon points="527.3,220.3 479.8,54 572,54 572,216.9" fill="none" stroke="#e300ff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
-<polygon points="513,292.4 527.3,220.3 572,216.9 572,303.8" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
-<polygon points="513,292.4 527.3,220.3 572,216.9 572,303.8" fill="none" stroke="#1c00ff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
-<polygon points="513,292.4 572,303.8 572,354 484.9,354" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
-<polygon points="513,292.4 572,303.8 572,354 484.9,354" fill="none" stroke="#00aaff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
+<polygon points="22,54 467.1,54 512,187.6 509.1,249.1 495.6,298 468.6,354 22,354" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
+<polygon points="22,54 467.1,54 512,187.6 509.1,249.1 495.6,298 468.6,354 22,354" fill="none" stroke="#ff0055" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
+<polygon points="512,187.6 467.1,54 572,54 572,180.3" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
+<polygon points="512,187.6 467.1,54 572,54 572,180.3" fill="none" stroke="#ff00ea" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
+<polygon points="509.1,249.1 512,187.6 572,180.3 572,253" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
+<polygon points="509.1,249.1 512,187.6 572,180.3 572,253" fill="none" stroke="#7f00ff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
+<polygon points="495.6,298 509.1,249.1 572,253 572,320.8" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
+<polygon points="495.6,298 509.1,249.1 572,253 572,320.8" fill="none" stroke="#0015ff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
+<polygon points="495.6,298 572,320.8 572,354 468.6,354" fill="none" stroke="#080811" stroke-width="3.4" stroke-linejoin="round"/>
+<polygon points="495.6,298 572,320.8 572,354 468.6,354" fill="none" stroke="#00aaff" stroke-width="1.2" stroke-opacity="0.9" stroke-linejoin="round"/>
 </g>
 </g>
 <rect x="22" y="54" width="550" height="300" rx="10" fill="none" stroke="#FF0055" stroke-opacity="0.28"/>
 <text x="598" y="69" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">COMMITS</text>
-<text class="num" x="598" y="101.5" font-size="28" font-weight="700" fill="#FFFFFF">743</text>
-<path class="spark" d="M724 99 L726.6 100.7 L729.3 95.6 L731.9 82.5 L734.5 100.2 L737.1 101.5 L739.8 101.5 L742.4 101.5 L745 101.5 L747.6 101.5 L750.3 101.5 L752.9 101.5 L755.5 101.1 L758.2 99 L760.8 99.8 L763.4 101.5 L766 101.5 L768.7 101.5 L771.3 101.5 L773.9 101.5 L776.5 101.5 L779.2 98.1 L781.8 96.9 L784.4 98.5 L787.1 98.5 L789.7 85 L792.3 82.9 L794.9 76.1 L797.6 89.2 L800.2 94.3 L802.8 85.4 L805.5 90.5 L808.1 88.8 L810.7 66 L813.3 88.4 L816 100.2 L818.6 99.4 L821.2 101.5 L823.8 97.7 L826.5 100.2 L829.1 100.7 L831.7 100.2 L834.4 99.8 L837 101.5 L839.6 98.1 L842.2 101.1 L844.9 88 L847.5 98.1 L850.1 99.4 L852.7 85.4 L855.4 76.6 L858 79.9" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="endpt"><circle class="pulse" cx="858" cy="79.9" r="2.6" fill="#00F0FF"/></g>
+<text class="num" x="598" y="101.5" font-size="28" font-weight="700" fill="#FFFFFF">714</text>
+<path class="spark" d="M724 97.7 L726.6 99.1 L729.3 93.5 L731.9 82.1 L734.5 101.5 L737.1 101.5 L739.8 101.5 L742.4 101.5 L745 101.5 L747.6 101.5 L750.3 101.5 L752.9 101.5 L755.5 101 L758.2 96.8 L760.8 99.6 L763.4 101.5 L766 101.5 L768.7 101.5 L771.3 101.5 L773.9 101.5 L776.5 98.2 L779.2 97.7 L781.8 96.3 L784.4 98.2 L787.1 97.2 L789.7 80.2 L792.3 88.2 L794.9 74.5 L797.6 95.3 L800.2 93.5 L802.8 83 L805.5 89.2 L808.1 92.5 L810.7 66 L813.3 93.9 L816 99.6 L818.6 100.6 L821.2 101.5 L823.8 97.2 L826.5 101.5 L829.1 100.6 L831.7 99.6 L834.4 99.6 L837 101.5 L839.6 97.7 L842.2 98.2 L844.9 86.8 L847.5 97.7 L850.1 100.6 L852.7 78.3 L855.4 66.9 L858 78.8" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="endpt"><circle class="pulse" cx="858" cy="78.8" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="113.5" x2="858" y2="113.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="128.5" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">PULL REQUESTS</text>
-<text class="num" x="598" y="161" font-size="28" font-weight="700" fill="#FFFFFF">106</text>
-<path class="spark" d="M724 161 L726.6 158.5 L729.3 150.9 L731.9 138.2 L734.5 153.4 L737.1 148.3 L739.8 161 L742.4 161 L745 161 L747.6 161 L750.3 161 L752.9 161 L755.5 161 L758.2 161 L760.8 161 L763.4 161 L766 161 L768.7 161 L771.3 161 L773.9 161 L776.5 161 L779.2 161 L781.8 158.5 L784.4 150.9 L787.1 150.9 L789.7 143.2 L792.3 153.4 L794.9 145.8 L797.6 148.3 L800.2 155.9 L802.8 155.9 L805.5 153.4 L808.1 145.8 L810.7 125.5 L813.3 130.6 L816 161 L818.6 158.5 L821.2 161 L823.8 161 L826.5 161 L829.1 161 L831.7 161 L834.4 158.5 L837 161 L839.6 161 L842.2 161 L844.9 148.3 L847.5 158.5 L850.1 158.5 L852.7 161 L855.4 155.9 L858 150.9" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-<g class="endpt"><circle class="pulse" cx="858" cy="150.9" r="2.6" fill="#00F0FF"/></g>
+<text class="num" x="598" y="161" font-size="28" font-weight="700" fill="#FFFFFF">98</text>
+<path class="spark" d="M724 161 L726.6 155.1 L729.3 143.2 L731.9 134.4 L734.5 146.2 L737.1 146.2 L739.8 161 L742.4 161 L745 161 L747.6 161 L750.3 161 L752.9 161 L755.5 161 L758.2 161 L760.8 161 L763.4 161 L766 161 L768.7 161 L771.3 161 L773.9 161 L776.5 161 L779.2 161 L781.8 155.1 L784.4 152.1 L787.1 146.2 L789.7 143.2 L792.3 158 L794.9 140.3 L797.6 152.1 L800.2 155.1 L802.8 155.1 L805.5 149.2 L808.1 152.1 L810.7 125.5 L813.3 143.2 L816 161 L818.6 158 L821.2 161 L823.8 161 L826.5 161 L829.1 161 L831.7 161 L834.4 158 L837 161 L839.6 161 L842.2 158 L844.9 146.2 L847.5 158 L850.1 161 L852.7 161 L855.4 155.1 L858 149.2" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="endpt"><circle class="pulse" cx="858" cy="149.2" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="173" x2="858" y2="173" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="188" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">ISSUES</text>
-<text class="num" x="598" y="220.5" font-size="28" font-weight="700" fill="#FFFFFF">74</text>
-<path class="spark" d="M724 220.5 L726.6 220.5 L729.3 220.5 L731.9 220.5 L734.5 220.5 L737.1 220.5 L739.8 220.5 L742.4 220.5 L745 220.5 L747.6 220.5 L750.3 220.5 L752.9 220.5 L755.5 220.5 L758.2 220.5 L760.8 220.5 L763.4 220.5 L766 220.5 L768.7 220.5 L771.3 220.5 L773.9 220.5 L776.5 220.5 L779.2 219 L781.8 216.1 L784.4 220.5 L787.1 219 L789.7 216.1 L792.3 220.5 L794.9 219 L797.6 220.5 L800.2 219 L802.8 213.1 L805.5 217.5 L808.1 214.6 L810.7 217.5 L813.3 220.5 L816 220.5 L818.6 220.5 L821.2 220.5 L823.8 220.5 L826.5 220.5 L829.1 220.5 L831.7 220.5 L834.4 220.5 L837 220.5 L839.6 220.5 L842.2 213.1 L844.9 210.1 L847.5 220.5 L850.1 220.5 L852.7 185 L855.4 207.2 L858 211.6" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="num" x="598" y="220.5" font-size="28" font-weight="700" fill="#FFFFFF">61</text>
+<path class="spark" d="M724 220.5 L726.6 220.5 L729.3 220.5 L731.9 220.5 L734.5 220.5 L737.1 220.5 L739.8 220.5 L742.4 220.5 L745 220.5 L747.6 220.5 L750.3 220.5 L752.9 220.5 L755.5 220.5 L758.2 220.5 L760.8 220.5 L763.4 220.5 L766 220.5 L768.7 220.5 L771.3 220.5 L773.9 220.5 L776.5 220.5 L779.2 219 L781.8 217.5 L784.4 220.5 L787.1 219 L789.7 216.1 L792.3 220.5 L794.9 219 L797.6 220.5 L800.2 214.6 L802.8 214.6 L805.5 216.1 L808.1 217.5 L810.7 219 L813.3 220.5 L816 220.5 L818.6 220.5 L821.2 220.5 L823.8 220.5 L826.5 220.5 L829.1 220.5 L831.7 220.5 L834.4 220.5 L837 220.5 L839.6 220.5 L842.2 210.1 L844.9 217.5 L847.5 220.5 L850.1 220.5 L852.7 185 L855.4 220.5 L858 211.6" pathLength="1" fill="none" stroke="#FF0055" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 <g class="endpt"><circle class="pulse" cx="858" cy="211.6" r="2.6" fill="#00F0FF"/></g>
 <line x1="598" y1="232.5" x2="858" y2="232.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <text x="598" y="247.5" font-size="10.5" letter-spacing="1" fill="#FFFFFF" fill-opacity="0.55">REVIEWS</text>
@@ -67,12 +72,14 @@
 <line x1="22" y1="364" x2="858" y2="364" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <rect x="22" y="384" width="16" height="16" rx="3" fill="#ff0055"/>
 <text x="44" y="396.6" font-size="13" fill="#FFFFFF">Python 91.4%</text>
-<rect x="231" y="384" width="16" height="16" rx="3" fill="#e300ff"/>
-<text x="253" y="396.6" font-size="13" fill="#FFFFFF">Go 7.1%</text>
-<rect x="440" y="384" width="16" height="16" rx="3" fill="#1c00ff"/>
-<text x="462" y="396.6" font-size="13" fill="#FFFFFF">C++ 1.2%</text>
-<rect x="649" y="384" width="16" height="16" rx="3" fill="#00aaff"/>
-<text x="671" y="396.6" font-size="13" fill="#FFFFFF">Makefile 0.3%</text>
+<rect x="189.2" y="384" width="16" height="16" rx="3" fill="#ff00ea"/>
+<text x="211.2" y="396.6" font-size="13" fill="#FFFFFF">Go 7.0%</text>
+<rect x="356.4" y="384" width="16" height="16" rx="3" fill="#7f00ff"/>
+<text x="378.4" y="396.6" font-size="13" fill="#FFFFFF">C++ 1.2%</text>
+<rect x="523.6" y="384" width="16" height="16" rx="3" fill="#0015ff"/>
+<text x="545.6" y="396.6" font-size="13" fill="#FFFFFF">Makefile 0.3%</text>
+<rect x="690.8" y="384" width="16" height="16" rx="3" fill="#00aaff"/>
+<text x="712.8" y="396.6" font-size="13" fill="#FFFFFF">CMake 0.2%</text>
 <text x="22" y="424.6" font-size="13"><tspan font-weight="700" fill="#FF0055">Region:</tspan><tspan dx="6" fill="#FFFFFF">each one represents a language</tspan></text>
 <text x="22" y="452.6" font-size="13"><tspan font-weight="700" fill="#FF0055">Cell:</tspan><tspan dx="6" fill="#FFFFFF">each one represents a repository associated with a programming language.</tspan></text>
 <text x="22" y="480.6" font-size="13"><tspan font-weight="700" fill="#FF0055">Opacity:</tspan><tspan dx="6" fill="#FFFFFF">proportional to how recently the repository was last pushed to (compared to the others)</tspan></text>
