@@ -17,7 +17,7 @@
 <rect x="22" y="22" width="4" height="22" rx="2" fill="#FF0055"/>
 <text x="37" y="39" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#FF0055">CONTRIBUTION CALENDAR</text>
 <text x="878" y="39" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#FF0055">
-<tspan font-size="20" font-weight="700" fill="#FFFFFF">794</tspan> contributions 
+<tspan font-size="20" font-weight="700" fill="#FFFFFF">793</tspan> contributions 
 <tspan font-size="20" font-weight="700" fill="#FFFFFF">117</tspan> active days in the last year</text>
 <text x="53.8" y="74" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#FFFFFF">Nov</text>
 <text x="131.6" y="74" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#FFFFFF">Dec</text>
@@ -287,6 +287,7 @@
 <circle cx="819.8" cy="169.6" r="1.1"/>
 <circle cx="866.4" cy="107.3" r="1.1"/>
 <circle cx="866.4" cy="138.4" r="1.1"/>
+<circle cx="866.4" cy="154.0" r="1.1"/>
 </g>
 <g stroke="#222540" stroke-width="1" opacity=".42">
 <line x1="57.8" y1="107.3" x2="57.8" y2="91.8"/>
@@ -618,8 +619,8 @@
 <circle cx="493.2" cy="122.9" r="2.4" fill="#FF0055" fill-opacity="0.68"/>
 <circle cx="493.2" cy="138.4" r="4.0" fill="#121324" stroke="#FF0055" stroke-opacity="0.45" stroke-width="1.6"><title>2026-05-20: 3 contributions</title></circle>
 <circle cx="493.2" cy="138.4" r="1.8" fill="#FF0055" fill-opacity="0.45"/>
-<circle cx="493.2" cy="154.0" r="4.2" fill="#121324" stroke="#FF0055" stroke-opacity="0.46" stroke-width="1.6"><title>2026-05-21: 4 contributions</title></circle>
-<circle cx="493.2" cy="154.0" r="1.9" fill="#FF0055" fill-opacity="0.46"/>
+<circle cx="493.2" cy="154.0" r="4.0" fill="#121324" stroke="#FF0055" stroke-opacity="0.45" stroke-width="1.6"><title>2026-05-21: 3 contributions</title></circle>
+<circle cx="493.2" cy="154.0" r="1.8" fill="#FF0055" fill-opacity="0.45"/>
 <circle cx="493.2" cy="185.1" r="4.7" fill="#121324" stroke="#FF0055" stroke-opacity="0.56" stroke-width="1.6"><title>2026-05-23: 10 contributions</title></circle>
 <circle cx="493.2" cy="185.1" r="2.1" fill="#FF0055" fill-opacity="0.56"/>
 <circle cx="508.8" cy="154.0" r="4.5" fill="#121324" stroke="#FF0055" stroke-opacity="0.51" stroke-width="1.6"><title>2026-05-28: 7 contributions</title></circle>
