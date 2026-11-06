@@ -13,12 +13,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/JonatasCortes/graphpath">
-    <img src="assets/contrib.svg" alt="Contribution Calendar" width="900">
-  </a>
-</p>
-
 <div align="center">
   <img src="assets/python_logo.svg" width="100" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,15 +45,18 @@
     width="900" />
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/JonatasCortes/graphpath">
+    <img src="assets/contrib.svg" alt="Contribution Calendar" width="900">
+  </a>
+</p>
 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jônatas-gonçalves-pereira-ramos-côrtes" target="_blank">
-    <img src="assets/linkedin.svg" height="100" alt="linkedin contact"  />
+    <img src="assets/linkedin.svg" height="100" alt="linkedin contact" />
   </a>
-  </a>
-  <a href="mailto:joncortes.on@gmail.com@gmail.com">
-    <img src="assets/gmail.svg" height="100" alt="gmail contact"  />
+  <a href="mailto:joncortes.on@gmail.com">
+    <img src="assets/gmail.svg" height="100" alt="gmail contact" />
   </a>
 </div>

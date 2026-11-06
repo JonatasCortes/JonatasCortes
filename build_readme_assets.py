@@ -1,4 +1,5 @@
 import svgblock as svg
+import random
 
 BLOCK_WIDTH = 900
 TITLE_SIZE = 30
@@ -20,15 +21,31 @@ light_sign = svg.Sequence(svg.FlickerIn(flickers=2),
 
 # LOGOS
 
-logo_animation = svg.Sequence(
-    svg.DropIn(easing=svg.Bounce(bounces=5, rebound=0.6)),
-    svg.Sequence(svg.Jelly(), svg.Show(1), loop_limit=2),
-    svg.SpinOut(),
-    svg.Hide(0.7),
-    loop_limit=None
-)
-
+random.seed(0)
 for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
+
+    t_drop = random.uniform(0.7, 0.95)
+    t_jelly = random.uniform(0.8, 1.1)
+    t_spin = random.uniform(0.7, 0.9)
+    t_hide = random.uniform(0.6, 0.85)
+
+    jelly_wobbles = random.choice([3, 4, 5])
+
+    logo_animation = svg.Sequence(
+        svg.DropIn(
+            duration=t_drop, distance=40,
+            easing=svg.Bounce(bounces=5, rebound=0.6)
+        ),
+        svg.Sequence(
+            svg.Jelly(duration=t_jelly, amount=0.15, wobbles=jelly_wobbles),
+            svg.Show(1),
+            loop_limit=2
+        ),
+        svg.SpinOut(duration=t_spin, angle=45),
+        svg.Hide(t_hide),
+        loop_limit=None
+    )
+
     (
         svg.Block(animation=logo_animation, width=100, hide_frame=True)
         .image(f"logos/{logo}_logo.png")
@@ -96,20 +113,12 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
 
 # CONTACT
 
-contact_animation = svg.Sequence(
+linkedin_animation = svg.Sequence(
     svg.PopIn(),
-    svg.Sequence(
-        svg.Pulse(duration=2, loop_limit=1),
-        svg.Pulse(duration=0.2, loop_limit=1),
-        loop_limit=2
-    ),
-    svg.Pulse(duration=2, loop_limit=1),
-    svg.PopOut(),
-    svg.Hide(1),
-    loop_limit=None
+    svg.Drift(loop_limit=None),
 )
 (
-    svg.Block(width=BLOCK_WIDTH, animation=contact_animation)
+    svg.Block(width=BLOCK_WIDTH, animation=linkedin_animation)
     .columns(
         svg.Column(10)
         .image(f"logos/linkedin_logo.png", width=300),
@@ -125,8 +134,14 @@ contact_animation = svg.Sequence(
     )
     .save(f"assets/linkedin.svg")
 )
+
+gmail_animation = svg.Sequence(
+    svg.PopIn(),
+    svg.Show(3),
+    svg.Drift(loop_limit=None)
+)
 (
-    svg.Block(width=BLOCK_WIDTH, animation=contact_animation)
+    svg.Block(width=BLOCK_WIDTH, animation=gmail_animation)
     .columns(
         svg.Column(10)
         .image(f"logos/gmail_logo.png", width=300),
