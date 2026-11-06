@@ -20,17 +20,17 @@
 </p>
 
 <div align="center">
-  <img src="assets/python_logo.svg" width="60" alt="Python" />
+  <img src="assets/python_logo.svg" width="100" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/pytorch_logo.svg" width="60" alt="PyTorch" />
+  <img src="assets/pytorch_logo.svg" width="100" alt="PyTorch" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/pandas_logo.svg" width="60" alt="Pandas" />
+  <img src="assets/pandas_logo.svg" width="100" alt="Pandas" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/numpy_logo.svg" width="60" alt="NumPy" />
+  <img src="assets/numpy_logo.svg" width="100" alt="NumPy" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/postgres_logo.svg" width="60" alt="PostgreSQL" />
+  <img src="assets/postgres_logo.svg" width="100" alt="PostgreSQL" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/docker_logo.svg" width="65" alt="Docker" />
+  <img src="assets/docker_logo.svg" width="100" alt="Docker" />
 </div>
 
 <br>
