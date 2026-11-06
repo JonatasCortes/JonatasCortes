@@ -7,7 +7,8 @@ TEXT_SIZE = 18
 
 # ABOUT ME
 
-light_sign = svg.Sequence(svg.GlitchIn(), svg.Show(6), loop_limit=None)
+light_sign = svg.Sequence(svg.FlickerIn(flickers=2),
+                          svg.Show(6), loop_limit=None)
 (
     svg.Block(width=BLOCK_WIDTH, animation=light_sign)
     .title("JÔNATAS CÔRTES", 30)
@@ -88,7 +89,7 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
         .text("Explore detailed performance metrics, such as __accuracy__, total __test time__ and a \
               complete __47-class confusion matrix__.", TEXT_SIZE),
         svg.Column()
-        .image("assets/hnsw.gif")
+        .image("logos/hnsw_logo.png")
     )
     .save("assets/academic_research.svg")
 )
