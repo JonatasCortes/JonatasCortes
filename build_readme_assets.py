@@ -115,7 +115,7 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
 
 linkedin_animation = svg.Sequence(
     svg.PopIn(),
-    svg.Drift(loop_limit=None),
+    svg.Drift(radius=30, loop_limit=None),
 )
 (
     svg.Block(width=BLOCK_WIDTH, animation=linkedin_animation)
@@ -138,7 +138,7 @@ linkedin_animation = svg.Sequence(
 gmail_animation = svg.Sequence(
     svg.PopIn(),
     svg.Show(3),
-    svg.Drift(loop_limit=None)
+    svg.Drift(radius=30, loop_limit=None)
 )
 (
     svg.Block(width=BLOCK_WIDTH, animation=gmail_animation)
