@@ -20,6 +20,6 @@ jobs:
 
       - uses: JonatasCortes/voronoi-stats@v1
         with:
-          theme: cyberpunk
+          theme: neon
           token: ${{ secrets.GH_TOKEN }}
           idle_animation: orbit,glint,scan,trace
