@@ -5,13 +5,14 @@ BLOCK_WIDTH = 900
 TITLE_SIZE = 30
 SUBSECTION_SIZE = 20
 TEXT_SIZE = 18
+THEME = svg.Theme.ATLAS
 
 # ABOUT ME
 
 light_sign = svg.Sequence(svg.FlickerIn(flickers=2),
                           svg.Show(6), loop_limit=None)
 (
-    svg.Block(theme=svg.Theme.FRANCE,
+    svg.Block(theme=THEME,
               width=BLOCK_WIDTH, animation=light_sign)
     .title("JÔNATAS CÔRTES", 30)
     .divider()
@@ -48,7 +49,7 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
     )
 
     (
-        svg.Block(theme=svg.Theme.FRANCE,
+        svg.Block(theme=THEME,
                   animation=logo_animation, width=100, hide_frame=True)
         .image(f"logos/{logo}_logo.png")
         .save(f"assets/{logo}_logo.svg")
@@ -57,7 +58,7 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
 # PROJECTS AND CONTRIBUTIONS
 
 (
-    svg.Block(theme=svg.Theme.FRANCE, width=BLOCK_WIDTH)
+    svg.Block(theme=THEME, width=BLOCK_WIDTH)
     .title("PROJECTS AND CONTRIBUTIONS", TITLE_SIZE)
     .divider()
     .divider(0)
@@ -95,7 +96,7 @@ for logo in ("python", "pytorch", "pandas", "numpy", "postgres", "docker"):
 # RESEARCH
 
 (
-    svg.Block(theme=svg.Theme.FRANCE, width=BLOCK_WIDTH)
+    svg.Block(theme=THEME, width=BLOCK_WIDTH)
     .title("ACADEMIC RESEARCH", TITLE_SIZE)
     .divider()
     .divider(0)
@@ -120,7 +121,7 @@ linkedin_animation = svg.Sequence(
     svg.Drift(radius=30, loop_limit=None),
 )
 (
-    svg.Block(theme=svg.Theme.FRANCE, width=BLOCK_WIDTH,
+    svg.Block(theme=THEME, width=BLOCK_WIDTH,
               animation=linkedin_animation)
     .columns(
         svg.Column(10)
@@ -144,7 +145,7 @@ gmail_animation = svg.Sequence(
     svg.Drift(radius=30, loop_limit=None)
 )
 (
-    svg.Block(theme=svg.Theme.FRANCE,
+    svg.Block(theme=THEME,
               width=BLOCK_WIDTH, animation=gmail_animation)
     .columns(
         svg.Column(10)
