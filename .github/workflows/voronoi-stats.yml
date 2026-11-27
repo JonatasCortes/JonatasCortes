@@ -20,6 +20,6 @@ jobs:
 
       - uses: JonatasCortes/voronoi-stats@v1
         with:
-          theme: neon
+          theme: france
           token: ${{ secrets.GH_TOKEN }}
           idle_animation: orbit,glint,scan,trace

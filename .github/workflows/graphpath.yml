@@ -14,7 +14,7 @@ concurrency:
 
 env:
   USERNAME: ${{ github.repository_owner }}
-  THEME: neon
+  THEME: france
 
 jobs:
   update:
